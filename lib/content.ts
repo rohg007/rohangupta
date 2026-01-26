@@ -43,7 +43,7 @@ export const content = {
             period: "2022 – 2024",
             company: "Fi (Epifi)",
             logo: "/themed_logos_pack/fi_ink.png",
-            role: "Senior Mobile Engineer",
+            role: "Senior Software Engineer",
             description:
                 "Worked on large-scale consumer payments and UPI systems in a high-traffic fintech app.",
             highlights: [
